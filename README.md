@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  
+## Hey there! 👋 I'm Anish.
 
-<!--
-**anishgurjar/anishgurjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year Computer Science student at Denison University 🎓. Passionate about crafting elegant software solutions and exploring the art of code. 🌟
 
-Here are some ideas to get you started:
+🛠️ I believe in the magic of **software engineering**, where creativity meets functionality, resulting in digital wonders. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Statement
+
+I find joy in the act of **building things** - from writing lines of code that dance together to form a symphony of functionality, to unraveling the intricate threads of complex software systems. 🏗️
+
+### Skills
+
+- Full Stack Development with **Ruby on Rails** 🛤️
+- Spring Framework **Java** and **JSP** enthusiast ☕
+- MERN Stack aficionado 🍃
+- Crafting queries and wielding **SQL** with precision 🗃️
+
+### Fun Facts
+
+🎸 I love playing electric guitar and jamming to fun beats and riffs. 🤘
+🌊 Certified scuba diver, exploring both the code and the depths. 🐠
+
+### Let's Connect!
+
+Feel free to drop me a line at 📧 gurjar_a1@denison.edu.
+
+</div>
