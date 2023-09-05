@@ -6,15 +6,9 @@
 
 🛠️ I believe in the magic of **software engineering**, where creativity meets functionality, resulting in digital wonders. 🚀
 
-### Personal Statement
-
-I find joy in the act of **building things** - from writing lines of code that dance together to form a symphony of functionality, to unraveling the intricate threads of complex software systems. 🏗️
-
 ### Skills
 
-- Full Stack Development with **Ruby on Rails** 🛤️
-- Spring Framework **Java** and **JSP** enthusiast ☕
-- MERN Stack aficionado 🍃
+- Full Stack Development with **Ruby on Rails and Spring Framework **Java**\☕
 - Crafting queries and wielding **SQL** with precision 🗃️
 
 ### Fun Facts
